@@ -3,7 +3,7 @@ Basic mask-ccn project on the LabV2 dataset
 
 by:Alok Gupta,Vincent Qi,Luke Hu
 
-We used the [LabPics V2 dataset](https://www.cs.toronto.edu/chemselfies/) that can be downloaded from here: [V2](https://zenodo.org/record/4736111/files/LabPicsChemistry.zip?download=1)
+We used the [LabPics V2 dataset](https://www.cs.toronto.edu/chemselfies/) that can be downloaded from here: [V2 download](https://zenodo.org/record/4736111/files/LabPicsChemistry.zip?download=1)
 
 The dataset is free to use under MIT license.
 
