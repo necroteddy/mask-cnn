@@ -1,4 +1,4 @@
-# mask-cnn
+# Mask r-cnn
 Basic mask-ccn project on the LabV2 dataset
 
 by:Alok Gupta,Vincent Qi,Luke Hu
